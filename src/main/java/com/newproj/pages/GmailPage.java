@@ -17,7 +17,6 @@ public class GmailPage {
 	By gmailLink = By.cssSelector(".gb_m[href='https://mail.google.com/mail/?tab=wm']");	
 	By signUpLink = By.id("link-signup");
 	By signUpPageDisplayed = By.cssSelector(".signuponepage");
-	//By signUpPageDisplayed = By.cssSelector(".signuponepage1");
 	By firstNameFld = By.id("FirstName");
 	By lastNameFld = By.id("LastName");
 	By passwordFld = By.id("Passwd");
